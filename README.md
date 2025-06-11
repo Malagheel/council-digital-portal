@@ -1,4 +1,4 @@
-#  Council Digital Services Portal (Business Systems Analyst Case Study)
+#  Council Digital Services Portal (Digital Transformation Project)
 
 A fictional local government portal designed to showcase business systems analysis, stakeholder engagement, and digital service transformation.
 
