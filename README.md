@@ -40,8 +40,7 @@ This project simulates the end-to-end delivery of a digital council services por
 |--------|---------|
 | ![User Journey](visual-models/Resident_User_Journey.png) | **Resident User Journey** |
 | ![Service Workflow](visual-models/Service_Request_Workflow.drawio.png) | **Back-Office Workflow** |
-![Wireframe](visual-models/Resident_Dashboard_Wireframe_Figma.png)  
-**Resident Portal Wireframe**
+| ![Wireframe]([visual-models/Resident Dashboard Wireframe (Figma).png](https://github.com/Malagheel/council-digital-portal/blob/main/visual-models/Resident%20Dashboard%20Wireframe%20(Figma).png)) | **Resident Portal Wireframe** |
 
 ---
 
