@@ -51,7 +51,7 @@
 **I want to** pay my council rates or fines through the portal  
 **So that** I can fulfill my obligations without visiting the office.
 
-** Acceptance Criteria:**
+** Acceptance Criteria: **
 - Secure payment gateway must support credit card and BPAY.
 - A receipt is generated and emailed after payment.
 
