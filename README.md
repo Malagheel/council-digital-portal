@@ -41,7 +41,6 @@ This project simulates the end-to-end delivery of a digital council services por
 | ![User Journey](visual-models/Resident_User_Journey.png) | **Resident User Journey** |
 | ![Service Workflow](visual-models/Service_Request_Workflow.drawio.png) | **Back-Office Workflow** |
 | ![Wireframe](visual-models/Resident Dashboard Wireframe (Figma).png) | **Resident Portal Wireframe** |
-
 ---
 
 ##  Tools Used
